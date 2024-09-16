@@ -1,0 +1,2 @@
+# 对所有.qrc文件使用LF换行符  
+*.qrc text eol=lf  

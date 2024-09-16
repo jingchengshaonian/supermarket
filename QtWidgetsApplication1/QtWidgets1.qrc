@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="supermarket">1.png</file>
+        <file alias="apple">2.png</file>
+    </qresource>
+</RCC>

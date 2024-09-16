@@ -1,0 +1,93 @@
+﻿  back.cpp
+  sold.cpp
+  warning.cpp
+  classes.cpp
+  form.cpp
+  form1.cpp
+  from3.cpp
+  QtWidgets1.cpp
+  main.cpp
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x226 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0xd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0xd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0xda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x234 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0xdb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x235 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0xdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x103 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xc75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x104 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xc77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x105 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xc78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xc7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x106 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xc7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xeb4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x156 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xeb5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x158 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xeb6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x159 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0xefa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\warning.cpp(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bbc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c80 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x26c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x26c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x26c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x26c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x26c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x2928 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x2929 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x292a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x292b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x29c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x29c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x29c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x29cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x29cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\classes.cpp(29,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\projects\新建文件夹\QtWidgetsApplication1\QtWidgets1.cpp(20,1): warning C4715: “QtWidgets1::findqstring”: 不是所有的控件路径都返回值
+  qrc_QtWidgets1.cpp
+  qrc_Resource.cpp
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x17a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x17c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x17d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x17e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x180 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x181 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x182 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(1,1): warning C4828: 文件包含在偏移 0x183 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584b9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584b9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584ba0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584ba1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584ba3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584ba4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584ba5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\projects\新建文件夹\QtWidgetsApplication1\x64\Debug\rcc\qrc_QtWidgets1.cpp(69335,1): warning C4828: 文件包含在偏移 0x584ba6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  moc_QtWidgets1.cpp
+  moc_form.cpp
+  moc_back.cpp
+  moc_warning.cpp
+  moc_sold.cpp
+  moc_from3.cpp
+  moc_form1.cpp
+  QtWidgetsApplication1.vcxproj -> D:\projects\新建文件夹\x64\Debug\QtWidgetsApplication1.exe

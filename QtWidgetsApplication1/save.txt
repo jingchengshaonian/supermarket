@@ -1,0 +1,21 @@
+name: tomato
+num: 10
+price: 2.5
+name: apple
+num: 5
+price: 1.5
+name: notebook
+num: 50
+price: 15
+name: pen
+num: 20
+price: 3.0
+name: TV
+num: 2
+price: 
+name: TV
+num: 1
+price: 
+name: 1
+num: 1
+price: 1
